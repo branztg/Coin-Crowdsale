@@ -236,9 +236,10 @@ You can also record your interactions with the executed contract as a short vide
 
 ## Submission
 
-* Upload the files for this assignment to your GitHub repository.
+### Deployment in Remix
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+![21set](https://github.com/branztg/Coin-Crowdsale/assets/100908888/9b9aaa71-6709-43bd-a5b6-c1a6f3f48a52)
+
 
 ---
 
